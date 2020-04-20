@@ -1,4 +1,4 @@
-package com.netty.nio.bufferarea;
+package com.netty.nio.buffer.bufferarea;
 
 import java.nio.IntBuffer;
 

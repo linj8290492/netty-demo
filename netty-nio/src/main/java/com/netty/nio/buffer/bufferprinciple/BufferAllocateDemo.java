@@ -1,4 +1,4 @@
-package com.netty.nio.bufferprinciple;
+package com.netty.nio.buffer.bufferprinciple;
 
 import java.nio.ByteBuffer;
 

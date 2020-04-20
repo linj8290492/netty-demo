@@ -1,4 +1,4 @@
-package com.netty.nio.bufferslice;
+package com.netty.nio.buffer.bufferslice;
 
 import java.nio.ByteBuffer;
 

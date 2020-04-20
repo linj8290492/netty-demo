@@ -1,4 +1,4 @@
-package com.netty.nio.bufferreadonly;
+package com.netty.nio.buffer.bufferreadonly;
 
 import java.nio.ByteBuffer;
 

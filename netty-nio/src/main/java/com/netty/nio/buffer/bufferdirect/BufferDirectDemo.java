@@ -1,4 +1,4 @@
-package com.netty.nio.bufferdirect;
+package com.netty.nio.buffer.bufferdirect;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
